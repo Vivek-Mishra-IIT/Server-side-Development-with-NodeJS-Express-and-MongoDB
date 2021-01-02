@@ -7,8 +7,8 @@ Coursera Course Work - https://www.coursera.org/learn/server-side-nodejs
     - Node Modules 
         - Simple node module 
         - Callbacks and Error Handling
-        - 
-        
+    - Node and HTTP
+
     ### Pacakge.json Scripts Explanation
     "scripts": {
             "test": "echo \"Error: no test specified\" && exit 1",
